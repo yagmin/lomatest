@@ -1,0 +1,7 @@
+Flask==2.*
+Flask-SQLAlchemy==3.*
+marshmallow==3.*
+psycopg2-binary==2.9.3
+SQLAlchemy==2.*
+webargs==8.*
+pytest

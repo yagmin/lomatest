@@ -1,0 +1,26 @@
+.section-card {
+    display: block;
+    text-align: center;
+    border: 1px solid #aaa;
+    padding: 1.5em;
+    width: 80%;
+    margin: 1em auto;
+  }
+
+.subheader-listing-date {
+    font-style: italic;
+    color: #777;
+    font-size: .9em;
+}
+.card-label {
+    display: block;
+    margin: .5em 0;
+    font-size: 1.2em;
+    font-weight: 600;
+}
+.card-data {
+    display: block;
+    margin: .5em 0;
+    text-align: left;
+    font-size: 1.2em;
+}
