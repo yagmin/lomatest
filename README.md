@@ -10,7 +10,7 @@
 
 Clone repository:
 ```
-$ git clone ...
+$ git clone git@github.com:yagmin/lomatest.git
 ```
 
 ### Project Notes
